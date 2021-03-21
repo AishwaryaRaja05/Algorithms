@@ -15,6 +15,7 @@ This repository is contribution friendly :smiley:. If you'd like to add or impro
 This repository provides algorithm implementations in Java, however there are other forks that provide implementations in other languages, most notably:
 
 * **C++/Python**: https://github.com/akzare/Algorithms
+* **Rust**: https://github.com/TianyiShi2001/Algorithms
 
 # Running an algorithm implementation
 
@@ -143,6 +144,7 @@ $ java -cp classes com.williamfiset.algorithms.search.BinarySearch
 ### Adhoc
 
 - [:movie_camera:](https://www.youtube.com/watch?v=_tur2nPkIKo) [Magic Cows](https://github.com/williamfiset/Algorithms/blob/master/src/main/java/com/williamfiset/algorithms/dp/examples/magicalcows/MagicalCows.java)
+- [:movie_camera:](https://youtu.be/oQQO_n57SB0) [Narrow Art Gallery](https://github.com/williamfiset/Algorithms/blob/master/src/main/java/com/williamfiset/algorithms/dp/examples/narrowartgallery/NarrowArtGalleryRecursive.java)
 
 ### Tiling problems
 
